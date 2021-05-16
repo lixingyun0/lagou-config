@@ -12,6 +12,6 @@ spring:
         min-idle: 1
     password: Da7iloEusrNwEdvw_6382
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/hdty?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true&tinyInt1isBit=false&allowMultiQueries=true&serverTimezone=GMT%2B8
-    username: root
-    password: ctCSD6TWLey62a2G
+    url: jdbc:mysql://47.98.59.188:3306/work?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true&tinyInt1isBit=false&allowMultiQueries=true&serverTimezone=GMT%2B8
+    username: lagou
+    password: lagou
